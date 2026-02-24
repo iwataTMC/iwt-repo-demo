@@ -1,6 +1,6 @@
 # iwt-repo-sample
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/iwataTMC/iwt-repo-sample)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/iwataTMC/iwt-repo-demo)
 
 このリポジトリは、以下を前提にした開発・リリース運用のサンプルです。
 
