@@ -1,4 +1,4 @@
-# iwt-repo-sample
+# iwt-repo-demo
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/iwataTMC/iwt-repo-demo)
 
