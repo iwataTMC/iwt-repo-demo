@@ -1,4 +1,4 @@
-# GitHub リリース手順（`post-create.sh` と `branch-setting.md` の設定後）
+# GitHub リリース手順
 
 この手順は、次の2点が完了している前提です。
 
